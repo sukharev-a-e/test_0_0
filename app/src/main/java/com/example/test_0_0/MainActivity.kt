@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val branch: String = "Ветко_0_0"
+        val branch: String = "Ветко_0_1"
     }
 }
